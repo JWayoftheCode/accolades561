@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_TIMESTAMP" overwriteAll="false" createEmptyFolders="true" promptOnLocalOverwrite="false" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc;*.webm;*.mpg;*.ogg;*.mp4;*.avi;*.mov;*.pdf;styles-*.min.css;scripts-*.min.js;vendor;*.lock;packages;.well-known" filePermissions="420" folderPermissions="493" notifyRemoteChanges="true" />
+</project>
